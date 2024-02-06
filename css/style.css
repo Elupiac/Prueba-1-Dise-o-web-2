@@ -1,0 +1,61 @@
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+:root{
+	--color-naranja:#ffaf70;
+	--color-titulos:#333;
+	--color-gris:#f2f4ec;
+	--color-hover-menu:#eee;
+	--bg-footer:#1a2130;
+	--bg-header:#ff5f6d;
+	--color-primario:#f75160;
+	--bg-sections:#faf9ff;
+}
+body{
+	
+	font-size: 14px;
+	color: #888;
+}
+h1,h2,h3,h4,h5,h6{
+	color: var(--color-titulos);
+}
+
+
+ 
+#hero h1{
+	color: var(--color-titulos);
+	font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+	padding-top: 20%;
+	margin-bottom: 5%
+	
+}
+
+#location-logos{
+	margin-bottom: 5%;
+}
+
+#about-office {
+	background-color: #cce4e4;
+	text-align: center;
+	padding: 5%;
+	}
+#about-office p{
+	color: #17494d
+}
+
+#available-worldwide{
+	padding: 10%;
+	text-align: center;
+	color: var(--color-titulos);
+}
+
+#join{
+	background-color: #d6bbf6;
+	padding:10%;
+}
+
+footer{
+	background-color: #222222;
+	color: #999;
+	padding: 15px 0;
+	text-align: center;
+}
